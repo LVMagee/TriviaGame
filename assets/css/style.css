@@ -9,6 +9,7 @@
   width: 800px;
   height: 520px;
   text-align: center;
+  box-shadow: 5px 5px 5px black;
 }
 
 .main-button-container {
